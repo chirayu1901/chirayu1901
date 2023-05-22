@@ -3,6 +3,7 @@
 - 📫 How to reach me 
   Email: cshekkar@uwaterloo.ca
  
+ ![Leetcode Stats](https://leetcard.jacoblin.cool/cshekkar)
 
 <!---
 chirayu1901/chirayu1901 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
