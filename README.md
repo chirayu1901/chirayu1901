@@ -2,7 +2,7 @@
 
 📫 How to reach me 
 
-Email: cshekkar@uwaterloo.ca
+ Email: cshekkar@uwaterloo.ca
  
  ![Leetcode Stats](https://leetcard.jacoblin.cool/cshekkar)
 
