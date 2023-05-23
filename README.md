@@ -1,8 +1,6 @@
 👋 Hi, I’m Chirayu, a third year student at the University of Waterloo in the Computer Science program.
 
-📫 How to reach me 
-
- Email: cshekkar@uwaterloo.ca
+📫 Email: cshekkar@uwaterloo.ca
  
  ![Leetcode Stats](https://leetcard.jacoblin.cool/cshekkar)
 
